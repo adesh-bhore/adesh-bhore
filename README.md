@@ -28,6 +28,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adesh-bhore&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=58a6ff" alt="adesh-bhore" />
 </p>
+<br>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adesh-bhore&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=58a6ff&icon_color=79ff97" alt="adesh-bhore" />
 </p>
